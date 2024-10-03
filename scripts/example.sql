@@ -1,0 +1,1 @@
+SELECT * FROM medesp_actas_temp;
