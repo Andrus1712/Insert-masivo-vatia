@@ -1,2 +1,6 @@
 .env
 virtual
+__pycache__
+logs/
+.lenv/
+
