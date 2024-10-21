@@ -6,7 +6,7 @@ from importQuery import ExecuteSQL
 
 arr_bd = [
     "siprem_prueba_almacen"
-    # "siprem_vatia_formacion",	
+    # "siprem_vatia_formacion",
     # "siprem_vatia_ae",	
     # "siprem_vatia_tsi",	
     # "siprem_vatia_ele",	
